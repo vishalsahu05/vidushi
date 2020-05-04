@@ -1,0 +1,56 @@
+
+header {
+  background:#B3B3B3;
+  padding: 8px;
+  background-image: url("IMG_5743.jpg");
+  filter: blur(.5px);
+  box-sizing:border-box;
+}
+body{
+  padding: 10px;
+  margin: 2px;
+  font-size: 22px;
+}
+
+ a:hover {
+  background-color: white;
+  opacity: 1;
+}
+section{
+  background-color:lightgray;
+  margin: 5px;
+}
+h1 {
+  text-align: center;
+  color :#FFFFFF;
+  text-transform:uppercase;
+  font-size: 30px;
+  }
+.pic
+{
+float: left;
+  width: 400px;
+  margin: 10px;
+  padding: 5px;
+}
+footer{
+  background: pink;
+}
+
+nav a{
+  display: inline-block;
+  margin: 2%;
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  -o-border-radius: 3;
+  border-radius: 5px;
+  text-decoration: none;
+  padding: 2%;
+  color: #000000;
+  text-align: center;
+  vertical-align: middle;
+  background-color: rgba(218,234,213,0.60);
+  width:150px;
+  height: 20px;
+}
+
